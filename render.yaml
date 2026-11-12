@@ -3,6 +3,5 @@ services:
     name: shortly-url-shortener
     runtime: node
     plan: free
-    rootDir: Practice/Url_shortner
     buildCommand: npm install
     startCommand: npm start
